@@ -1,4 +1,4 @@
-Our manuscript "A multimodal foundation model for multi-disease diagnosis from spinal imaging" is currently under submission to *Nature Computational Science*.
+Our manuscript "A multimodal foundation model for multi-disease diagnosis from spinal imaging" is currently under submission to *Nature Communications*.
 
 # ABSTRACT
 
