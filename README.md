@@ -105,7 +105,7 @@ CUDA_VISIBLE_DEVICES=1 python train.py -nc configs/model/RN50.yaml -dc configs/d
 
 In the command above, **RN50.yaml** sets some hyperparameters for training, **first_XMRI.yaml** contains hyperparameter settings for the dataset, **--dataset_dir** is the absolute path to the dataset (pay attention to the correct location), **--max_epochs** is the number of training epochs, **--output_dir** is the output path for model weights and other files, **--test_file_path**, **--val_file_path**, and **--train_file_path** are the paths to JSON files for test, validation, and training sets respectively, and **--start_afresh** indicates whether to start training from scratch (default is False).
 
-## 4. How to apply SpineModel to your own dataset:
+## 4. How to apply SpineMMF to your own dataset:
 
 The following files need to be modified accordingly based on your dataset.
 - build_dataset.py
@@ -116,8 +116,8 @@ The following files need to be modified accordingly based on your dataset.
 - test_hierarchical_moe.py
 - SpineModel.py
 
-# Performance demonstration of SpineModel
-## 1.Comparative experiments of SpineModel with six methods across five datasets
+# Performance demonstration of SpineMMF
+## 1.Comparative experiments of SpineMMF with six methods across five datasets
 ![img_1.png](img_1.png)
 
 ## 2. Grad-CAM visualization
