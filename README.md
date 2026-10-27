@@ -1,4 +1,4 @@
-Our manuscript "SpineMMF: A unified multimodal framework for multiple spinal disease diagnosis" is currently under submission to *Nature Communications*.
+Our manuscript "SpineMMF: A unified multimodal framework for multiple spinal disease diagnosis" is currently under submission to *ADVANCED SCIENCE*.
 
 # ABSTRACT
 
